@@ -1,0 +1,5 @@
+com\example\prdemo\PrDemoApplication.class
+com\example\prdemo\UserService.class
+com\example\prdemo\UserRepository.class
+com\example\prdemo\UserController.class
+com\example\prdemo\User.class
